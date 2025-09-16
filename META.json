@@ -1,0 +1,61 @@
+{
+  "category": "iot-platforms",
+  "created_date": "2025-09-15T22:48:57.577304",
+  "default_ports": [
+    80,
+    443,
+    1883
+  ],
+  "dependencies": [],
+  "description": "flespi is a free and open-source telematics gateway. Flespi provides telematics gateway platform",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/iot-platforms/flespi",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/iot-platforms/flespi",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.577318",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "flespi",
+  "repository_url": "https://github.com/howtomgr/flespi",
+  "spec_version": "2.0",
+  "subcategory": "iot-platforms",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "iot-platforms",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "flespi Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/iot-platforms/flespi"
+}
